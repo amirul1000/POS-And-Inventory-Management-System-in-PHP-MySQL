@@ -1,7 +1,7 @@
 "# pharmachy-management-system" 
 
 
-PBilling & Invoicing System in PHP MySQL
+Billing & Invoicing System in PHP MySQL
 ==========================================
 
 Youtube Tutorial : https://youtu.be/iYcUq_U387o
