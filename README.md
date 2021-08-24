@@ -1,7 +1,7 @@
-"# pharmachy-management-system" 
+"# POS And Inventory Management System in PHP MySQL " 
 
 
-Billing & Invoicing System in PHP MySQL
+POS And Inventory Management System in PHP MySQL (Codeigniter)
 ==========================================
 
 Youtube Tutorial : https://youtu.be/ckBqXNZkdWs
